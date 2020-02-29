@@ -1,0 +1,36 @@
+body{
+  background-color: blue;
+}
+.container{
+  height: 800px;
+  width: 950px;
+  background-color: white;
+}
+.button{
+  background-color:#20B2AA;
+  color: white;
+  width:300px;
+  height: 50px;
+  border-radius: 10px;
+}
+h2{
+  background-color: #20B2AA;
+  width: 200px;
+  
+  height: 50px;
+  border-radius: 15px;
+  padding: 3px;
+  color: white;
+}
+.home{
+  height: 800px;
+  width: 350px;
+  background-color: white;
+  padding: 40px;
+}
+a{
+  color: black;
+}
+.wrapper{
+  display: flex;
+}
